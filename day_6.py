@@ -9,4 +9,8 @@
 
 class XORList(value, xor = None):
 	self.value = value
-	self.xor = 
+	self.xor = xor
+
+	def add(value, next = None, prev = None):
+		pass
+	def

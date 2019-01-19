@@ -12,7 +12,7 @@ def missing_poss(arr):
 	for i in range(0, len(arr)):
 		if arr[i] <= 0:
 			pass
-		if !lowest_int:
+		if lowest_int:
 			lowest_int = arr[i]
 		if arr[i] < lowest_int:
 			lowest_int = arr[i]
